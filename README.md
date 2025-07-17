@@ -30,6 +30,14 @@ An AI-driven simulation inspired by the Sugarscape model, visualized using **Sol
 
 ---
 
+### ♟️ [OthelloAI-Java – Strategy-Based Console Game](https://github.com/sainashishegar/OthelloAI-Java)
+A console-based Java game simulating Othello (Reversi), with multiple player strategies (Human, Random, Greedy AI). Modular and extensible using OOP and custom controller logic.
+
+> 🛠️ Java · OOP · CLI  
+> 🎯 Highlight: AI matchups using different strategies like greedy and random
+
+
+
 ## 💡 Skills & Tools
 
 `Java` · `Python` · `Swing` · `MySQL` · `JDBC` · `JML` · `Solara` · `Mesa` · `Git` · `OOP` · `Data Modeling`
